@@ -10,10 +10,10 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://raw.githubusercontent.com/zik.sh/plugins/main/plugins/todo/openapi.yaml",
+    "url": "https://raw.githubusercontent.com/zik-sh/plugins/main/plugins/todo/openapi.yaml",
     "is_user_authenticated": false
   },
-  "logo_url": "https://raw.githubusercontent.com/zik.sh/plugins/main/plugins/todo/logo.png",
+  "logo_url": "https://raw.githubusercontent.com/zik-sh/plugins/main/plugins/todo/logo.png",
   "contact_email": "support@example.com",
   "legal_info_url": "http://www.example.com/legal"
 }
